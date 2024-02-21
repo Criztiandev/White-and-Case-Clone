@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.5" height="28.084" viewBox="0 0 32.5 28.084">
+  <g id="listen_icon" transform="translate(0.75 0.75)">
+    <path id="speaker" d="M84.635,442.077h0L72.51,434.3H67.346V423.2H72.6v.01l12.032-7.717v26.583h0Z" transform="translate(-67.346 -415.493)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <g id="sound" transform="translate(21.177 3.655)">
+      <path id="Path_8079" data-name="Path 8079" d="M179.914,415.233a9.639,9.639,0,1,1,0,19.274" transform="translate(-179.914 -415.233)" fill="none" stroke="#09c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_8080" data-name="Path 8080" d="M179.914,467.324a4.065,4.065,0,1,0,0-8.129" transform="translate(-179.914 -453.622)" fill="none" stroke="#09c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

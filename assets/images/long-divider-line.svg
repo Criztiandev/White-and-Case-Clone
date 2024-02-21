@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1070" height="20.05" viewBox="0 0 1070 20.05">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="0.749" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="0.981" x2="0.5" y2="0.244" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e6e6e6"/>
+      <stop offset="1" stop-color="#e6e6e6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" y1="0.019" y2="0.756" xlink:href="#linear-gradient-3"/>
+  </defs>
+  <g id="Long_Divider_Line" transform="translate(0.234)">
+    <rect id="Shadow_Top" width="1070" height="6" transform="translate(1069.766 8) rotate(180)" opacity="0.202" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Shadow_Top-2" data-name="Shadow_Top" width="1069.159" height="12.05" transform="translate(0.009 8)" opacity="0.6" fill="url(#linear-gradient-2)"/>
+    <path id="Path_8092" data-name="Path 8092" d="M0,0H1069.159" transform="translate(0.009 8)" fill="none" stroke="#ddd" stroke-width="1"/>
+    <rect id="Rectangle_504" data-name="Rectangle 504" width="16" height="273.479" transform="translate(796.286 16) rotate(-90)" fill="url(#linear-gradient-3)"/>
+    <rect id="Rectangle_1043" data-name="Rectangle 1043" width="16" height="274.519" transform="translate(-0.234 16) rotate(-90)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>
